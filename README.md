@@ -1,1 +1,1 @@
-[![gasselin's Exam rank 04 Score](https://badge42.herokuapp.com/api/project/gasselin/Exam%20Rank%2004)](https://github.com/JaeSeoKim/badge42)
+[![gasselin's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl3346xta00920ajxpf1ddxua/project/2441491)](https://github.com/JaeSeoKim/badge42)
